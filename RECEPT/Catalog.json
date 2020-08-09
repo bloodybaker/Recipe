@@ -1,0 +1,16 @@
+﻿{
+  "soup": [{
+    "name" : "borsh",
+    "description": "борщик вкусный и наваристый",
+    "ingredients":[],
+    "steps":[]
+  },{
+    "name" : "borsh с щавлем",
+    "description": "невкусная хуета",
+    "ingredients":[],
+    "steps":[]
+    }],
+  "meat": [],
+  "fish": [],
+  "salad": []
+}
